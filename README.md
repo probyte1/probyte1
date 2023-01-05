@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @probyte1
-- 👀 I’m interested in Machine Learning Technology
+- 👀 I’m interested in Machine Learning Engineering
 - 🌱 I’m currently learning Data Analysis
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to forward to working with my anlytics skills while i learn about ML
 - 📫 How to reach me 
 
 <!---
