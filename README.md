@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://probyte1.github.io](https://probyte1.github.io)
 
-- 💬 Ask me about **Python, Pandas, Matplotlib,**
+- 💬 Ask me about **Python, Pandas, Matplotlib,AWS**
 
 - 📫 How to reach me **aduprosper6@gmail.com**
 
