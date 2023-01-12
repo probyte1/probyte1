@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prosper Adu</h1>
-<h3 align="center">I’m interested in Machine Learning Engineering</h3>
+<h3 align="center">I’m interested in Data Analytics & Machine Learning Engineering</h3>
 <img align="right" alt="Coding" width="550" src='https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif'>
 
 
