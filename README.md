@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, Pandas, Matplotlib,AWS**
 
-- 📫 How to reach me **aduprosper6@gmail.com**
+- 📫 How to reach me **vwegbaadu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
